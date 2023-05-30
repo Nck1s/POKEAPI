@@ -79,6 +79,26 @@ main {
   box-shadow: 0 0 2rem rgba(0, 0, 0, .25);
 }
 
+.searchinput{
+  width: 500px;
+  display: flex;
+  padding: 10px;
+}
+
+.searchinput input#search{
+  width: 400px;
+  height: 30px;
+  background: #ffffff;
+  border: 1px solid rgba(0, 0, 0, 0);
+  font-size: 10pt;
+  float: left;
+  color: #000000;
+  border-radius: 15px;
+  padding: 5px;
+  margin-right: 10px;
+ 
+}
+
   .logo{
     width: 500px;
     }
